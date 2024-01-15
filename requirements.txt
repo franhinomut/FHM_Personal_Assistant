@@ -1,0 +1,9 @@
+ipykernel
+requests
+BeautifulSoup4
+langchain
+openai
+pandas
+python-dotenv
+langchain_openai
+chromadb
