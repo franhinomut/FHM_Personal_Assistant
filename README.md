@@ -3,3 +3,5 @@
 ## First LLM APP
 
 [First_LLM_APP](https://github.com/franhinomut/FHM_Personal_Assistant)
+
+## LangChain with SQL Agent
